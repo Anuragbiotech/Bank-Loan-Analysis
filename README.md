@@ -2,6 +2,7 @@
 
 >"This Power BI Dashboard provides a comprehensive overview of our bank’s loan activities, including total loan applications, funded amounts, and amounts received. By analyzing key metrics such as interest rates and debt-to-income ratios, alongside visual representations of trends and regional data, we aim to enhance financial decision-making and streamline the loan approval process."
 
+I want to thank [Swapnjeet S](https://www.linkedin.com/in/swapnjeet-s-58a673273/) for providing this wonderful project through which I could learn and improve my skills in both SQL Server and MS PowerBI.
 ## Problem Statement
 
 ### Dashboard 1: Summary
