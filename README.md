@@ -33,3 +33,14 @@ Need for a comprehensive 'Details Dashboard' that provides a consolidated view o
 Objective:
 
 The primary objective of Details Dashboard is to provide a comprehensive and user-friendly interface for accessing vital loan data. It will serve as a one-stop solution for users seeking detailed insights into our loan portfolio, borrower profiles, and loan performance.
+
+---
+# Outcome:
+
+<img src = https://github.com/Anuragbiotech/Bank-Loan-Analysis/blob/main/Screenshot%20(10).png alt = "Dashboard 1: Summary">
+
+
+<img src = https://github.com/Anuragbiotech/Bank-Loan-Analysis/blob/main/Screenshot%20(11).png alt = "Dashboard 2: Overview">
+
+
+<img src = https://github.com/Anuragbiotech/Bank-Loan-Analysis/blob/main/Screenshot%20(12).png alt = "Dashboard 3: Details">
