@@ -45,3 +45,8 @@ The primary objective of Details Dashboard is to provide a comprehensive and use
 
 
 <img src = https://github.com/Anuragbiotech/Bank-Loan-Analysis/blob/main/Screenshot%20(12).png alt = "Dashboard 3: Details">
+
+
+**Below is the link to the SQL queries generated to verify the figures shown in the dashboard. All figures in the dashboard are rounded-off.**
+
+[Bank Loan Report](https://github.com/Anuragbiotech/Bank-Loan-Analysis/blob/main/BANK%20LOAN%20REPORT%20QUERY%20DOCUMENT.pdf)
